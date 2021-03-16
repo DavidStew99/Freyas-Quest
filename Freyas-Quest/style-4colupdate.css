@@ -1,0 +1,13 @@
+#wrapper {margin:auto; width:1024px; border:10px white solid;}
+header {margin-top:0; text-align:center; color:white; height:181px; baground-image:url('images/castle.jpg');}
+
+h1 {position:absolute; top:45px; font-size:22pt; font-size:250%; font-weight:bold; text-align:center;}
+h2 {font-size:150%; text-align:center;}
+p {font-size:120%; text-align:center;}
+a {font-size:120%;}
+nav {float:left; width:150px; height:190px; background:green;}
+#rightcol {float:right; width:150px; height:190px; background:green;}
+#midcol {margin-left:155px; margin-right:155px;}
+br.clear {clear:both}
+#midcol-left {float:left; width:48%; background:green; font-weight:bold;}
+#midcol-right {float:right; width:48%; background:green; font-weight:bold;}
